@@ -62,7 +62,7 @@ const contactData = {
     size: "~200 KB"
   },
   footer: {
-    copy: "© 2025 Abhishek Biswas. All rights reserved.",
+    copy: "© 2026 Abhishek Biswas. All rights reserved.",
     made: "Built with precision & purpose ♥"
   }
   // ── Add more social links or contact channels below ──
